@@ -16,7 +16,7 @@ import pandas as pd
 import numpy as np
 #import yfinance as yf
 import datetime
-import pandas_datareader.data as web
+#import pandas_datareader.data as web
 import capm_func  # importing plotly function python file
 
 st.set_page_config(page_title="CAPM" , page_icon="chart_with_upward_trend",layout = "wide")
