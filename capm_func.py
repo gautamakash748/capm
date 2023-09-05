@@ -1,5 +1,6 @@
 import plotly.express as px
 import numpy as np
+import yfinance as yf
 
 # function to plot interactive plotly chart
 def interactive_plot(df):
