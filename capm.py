@@ -6,7 +6,7 @@
 #B(i) ---> beta b/w stock and market ------>>>measure of stock risks
 #r(m) ---> expected return of the market 
 #r(i) ---> expected return on security
-#(r(m) - r(f)) ---->  risk premium
+#(r(m) - r(f)) ---->  risk premium..
 
 
 
