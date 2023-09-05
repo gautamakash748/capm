@@ -14,7 +14,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import yfinance as yf
+#import yfinance as yf
 import datetime
 import pandas_datareader.data as web
 import capm_func  # importing plotly function python file
