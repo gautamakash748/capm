@@ -31,7 +31,7 @@ with col2:
     year = st.number_input("Number of years",1,10)
 # downloading data for sp500
 # capm_func ------>
-import plotly.express as px
+##import plotly.express as px
 #import numpy as np
 #import yfinance as yf
 
